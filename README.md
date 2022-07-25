@@ -1,5 +1,3 @@
-# Frontend-resourses
-
 # Front-End Resources
 
 1.  [CSS Frameworks](#css-frameworks)
